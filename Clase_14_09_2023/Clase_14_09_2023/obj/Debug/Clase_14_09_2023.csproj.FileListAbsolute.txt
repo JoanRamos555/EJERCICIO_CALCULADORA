@@ -1,0 +1,8 @@
+C:\Users\Estudiantes\Documents\C#\Clase_14_09_2023\Clase_14_09_2023\bin\Debug\Clase_14_09_2023.exe.config
+C:\Users\Estudiantes\Documents\C#\Clase_14_09_2023\Clase_14_09_2023\bin\Debug\Clase_14_09_2023.exe
+C:\Users\Estudiantes\Documents\C#\Clase_14_09_2023\Clase_14_09_2023\bin\Debug\Clase_14_09_2023.pdb
+C:\Users\Estudiantes\Documents\C#\Clase_14_09_2023\Clase_14_09_2023\obj\Debug\Clase_14_09_2023.csproj.AssemblyReference.cache
+C:\Users\Estudiantes\Documents\C#\Clase_14_09_2023\Clase_14_09_2023\obj\Debug\Clase_14_09_2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\Estudiantes\Documents\C#\Clase_14_09_2023\Clase_14_09_2023\obj\Debug\Clase_14_09_2023.csproj.CoreCompileInputs.cache
+C:\Users\Estudiantes\Documents\C#\Clase_14_09_2023\Clase_14_09_2023\obj\Debug\Clase_14_09_2023.exe
+C:\Users\Estudiantes\Documents\C#\Clase_14_09_2023\Clase_14_09_2023\obj\Debug\Clase_14_09_2023.pdb
